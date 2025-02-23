@@ -29,4 +29,6 @@ func main() {
 	default:
 		fmt.Println("What was that?")
 	}
+
+	fmt.Println("Done")
 }
